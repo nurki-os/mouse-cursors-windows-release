@@ -2,7 +2,7 @@
 NurkiOS Mouse Cursors for Microsoft Windows
 
 <center>
-  <img src="https://github.com/nurki-os/mouse-cursors-windows-release/tree/main/preview.png" width="100%">
+  <img src="https://github.com/nurki-os/mouse-cursors-windows-release/blob/main/preview.png" width="100%">
 </center>
 
 ## Installation
